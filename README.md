@@ -4,5 +4,5 @@ Mateo Hernández
 # Descripción
 Cliente - Servidor
 
-#Objetivo
-_Diseñar comunicación para ser productivo en los sitemas de RED_ 
+# Descripción
+Cliente - Servidor
