@@ -10,8 +10,7 @@ Emplea frameworks para el desarrollo de Software
 # Carrera Técnica
 Programación
  
- ## Content
+ ## Video
 
 - Getting Started
-  - [Map of Computer Science](https://www.youtube.com/watch?v=SzJ46YA_RaA)
-  - [Map of Mathematics](https://www.youtube.com/watch?v=OmJ-4B-mS-Y)
+  - [Map of Computer Science](https://www.youtube.com/watch?v=TALDLVNs2ss)
