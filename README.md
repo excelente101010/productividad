@@ -13,4 +13,4 @@ Programación
  ## Video
 
 - Getting Started
-  - [Map of Computer Science](https://www.youtube.com/watch?v=TALDLVNs2ss)
+  - [¿Qué es un Framework](https://www.youtube.com/watch?v=TALDLVNs2ss)
