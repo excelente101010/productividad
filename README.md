@@ -13,7 +13,7 @@ Programación
 # Video
 - Introducción
   - [¿Qué es un Framework](https://www.youtube.com/watch?v=TALDLVNs2ss)
-  [![](https://markdown-videos.deta.dev/youtube/NarBox1LkYc)](https://youtu.be/NarBox1LkYc)
+  - [![](https://markdown-videos.deta.dev/youtube/NarBox1LkYc)](https://youtu.be/NarBox1LkYc)
 
 # Artículos para el análisis
 - [ Framework DE SOFTWARE: QUÉ ES, VENTAJAS, DESVENTAJAS](https://www.ticportal.es/glosario-tic/framework-software)
