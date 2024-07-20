@@ -1,11 +1,12 @@
-# productividad
-Mateo Hernández
+# Docente
+Lic. Mateo Hernández Jacinto
 
-# Descripción
-Cliente - Servidor
+# Módulo
+Desarrolla Software con Herramientas Orientadas a la Productividad
 
-# Objetivo del curso
-_Este  proceso se lleva a cabo con el enfoque de competencias laborales, que desarrollan en el estudiantado 
-una experiencia relevante y flexible, que mejore su comprensión y aplicación en su capacidad de diseñar, codificar e implementar 
-software de sistemas informáticos [1]._ 
+# Submódulo
+Emplea frameworks para el desarrollo de Software 
+
+# Carrera Técnica
+Programación
  
