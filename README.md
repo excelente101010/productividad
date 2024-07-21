@@ -14,7 +14,7 @@ Programación
 - Introducción
   - [¿Qué es un Framework](https://www.youtube.com/watch?v=TALDLVNs2ss)
   
-# Artículos para el análisis
+# Artículos para el análisis (parcial 1, Actividad 1)
 - [ Framework DE SOFTWARE: QUÉ ES, VENTAJAS, DESVENTAJAS](https://www.ticportal.es/glosario-tic/framework-software)
 - [ PARA QUÉ SIRVE EL Framework](https://unirfp.unir.net/revista/ingenieria-y-tecnologia/framework/)
 - [ 12 Ejemplos de frameworks](https://blog.hubspot.es/website/framework-desarrollo-web)
